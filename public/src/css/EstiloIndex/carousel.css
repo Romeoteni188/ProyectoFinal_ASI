@@ -1,0 +1,37 @@
+.mb-3{
+    color: #b5b5bb;
+}
+.container{
+    background-color: #1b1b1b;
+}
+body{
+    background-color: #1b1b1b;
+}
+
+.card{
+    background-color: 2b2b2b;
+    border: none;
+}
+
+.btn{
+    background-color: #e29300;
+    border: none;
+    color: #2b2b2b
+}
+
+.btn:hover{
+    background-color: #fcb83a;
+    border: none;
+    color: #2b2b2b
+}
+
+.btn:focus{
+    background-color: #fcb83a;
+    color: #2b2b2b;
+    outline: 0;
+    box-shadow: none;
+}
+
+.main{
+    background-color: red;
+}
